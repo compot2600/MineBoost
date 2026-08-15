@@ -1,7 +1,7 @@
 # MineBoost - Minecraft Optimizer
 
 <p align="center">
-  <a href="https://github.com">
+  <a href="https://github.com/compot2600/MineBoost">
     <img src="https://img.shields.io/github/downloads/compot2600/MineBoost/total?style=for-the-badge&color=4CAF50&logo=github" alt="Downloads">
   </a>
   <a href="https://github.com/compot2600/MineBoost">
