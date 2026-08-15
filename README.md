@@ -1,20 +1,6 @@
 # MineBoost - Minecraft Optimizer
 
-<p align="center">
-  <a href="https://github.com/compot2600/MineBoost">
-    <img src="https://img.shields.io/github/downloads/compot2600/MineBoost/total?style=for-the-badge&color=4CAF50&logo=github" alt="Downloads">
-  </a>
-  <a href="https://github.com/compot2600/MineBoost">
-    <img src="https://img.shields.io/github/watchers/compot2600/MineBoost?style=for-the-badge&color=2196F3" alt="Views">
-  </a>
-  <a href="https://github.com/compot2600/MineBoost">
-    <img src="https://img.shields.io/github/languages/top/compot2600/MineBoost?style=for-the-badge&color=178600" alt="Language">
-  </a>
-  <a href="://github.com">
-    <img src="https://img.shields.io/badge/SIZE-127_KB-708090?style=for-the-badge" alt="Size">
-  </a>
-</p>
-
+<p align="center"><a href="https://github.com/compot2600/MineBoost"><img src="https://img.shields.io/github/downloads/compot2600/MineBoost/total?style=for-the-badge&color=4CAF50&logo=github" alt="Downloads"></a><a href="https://github.com/compot2600/MineBoost"><img src="https://img.shields.io/github/watchers/compot2600/MineBoost?style=for-the-badge&color=2196F3" alt="Views"></a><a href="https://github.com/compot2600/MineBoost"><img src="https://img.shields.io/github/languages/top/compot2600/MineBoost?style=for-the-badge&color=178600" alt="Language"></a><a href="https://github.com/compot2600/MineBoost"><img src="https://img.shields.io/badge/SIZE-127_KB-708090?style=for-the-badge" alt="Size"></a></p>
 
 ---
 
