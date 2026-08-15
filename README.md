@@ -2,18 +2,19 @@
 
 <p align="center">
   <a href="https://github.com">
-    <img src="https://shields.io" alt="Downloads">
+    <img src="https://img.shields.io/github/downloads/compot2600/MineBoost/total?style=for-the-badge&color=4CAF50&logo=github" alt="Downloads">
   </a>
-  <a href="https://github.com">
-    <img src="https://shields.io" alt="Views">
+  <a href="https://github.com/compot2600/MineBoost">
+    <img src="https://img.shields.io/github/watchers/compot2600/MineBoost?style=for-the-badge&color=2196F3" alt="Views">
   </a>
-  <a href="https://github.com">
-    <img src="https://shields.io" alt="Language">
+  <a href="https://github.com/compot2600/MineBoost">
+    <img src="https://img.shields.io/github/languages/top/compot2600/MineBoost?style=for-the-badge&color=178600" alt="Language">
   </a>
-  <a href="https://github.com">
-    <img src="https://shields.io" alt="Size">
+  <a href="https://github.com/compot2600/MineBoost">
+    <img src="https://img.shields.io/github/repo-size/compot2600/MineBoost?style=for-the-badge&color=708090" alt="Size">
   </a>
 </p>
+
 
 ---
 
