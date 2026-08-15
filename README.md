@@ -1,0 +1,2 @@
+# MineBoost
+Minecraft optimization app
