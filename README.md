@@ -1,10 +1,10 @@
 # MineBoost - Minecraft Optimizer
 
 <p align="center">
-  <img src="https://shields.io" alt="Downloads">
-  <img src="https://shields.io" alt="Views">
-  <img src="https://shields.io" alt="Language">
-  <img src="https://shields.io" alt="Size">
+  <img src="https://compot2600.io" alt="Downloads">
+  <img src="https://compot2600.io" alt="Views">
+  <img src="https://compot2600.io" alt="Language">
+  <img src="https://compot2600.io" alt="Size">
 </p>
 
 ---
