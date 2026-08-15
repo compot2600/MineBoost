@@ -10,8 +10,8 @@
   <a href="https://github.com/compot2600/MineBoost">
     <img src="https://img.shields.io/github/languages/top/compot2600/MineBoost?style=for-the-badge&color=178600" alt="Language">
   </a>
-  <a href="https://github.com/compot2600/MineBoost">
-    <img src="https://img.shields.io/github/repo-size/compot2600/MineBoost?style=for-the-badge&color=708090" alt="Size">
+  <a href="://github.com">
+    <img src="https://img.shields.io/badge/SIZE-3.5_MB-708090?style=for-the-badge" alt="Size">
   </a>
 </p>
 
